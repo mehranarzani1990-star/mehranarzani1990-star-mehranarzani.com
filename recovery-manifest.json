@@ -1,0 +1,17 @@
+{
+  "recovered_at": "2026-08-23T19:06:00-05:00",
+  "live_domain": "https://mehranarzani.com",
+  "cloudflare_pages_project": "mehran-arzani-website",
+  "status": "reconstructed-static-source-not-production-connected",
+  "battery_frames": 45,
+  "pages": [
+    "/",
+    "/publications/",
+    "/awards/",
+    "/conferences/",
+    "/books/",
+    "/patents/",
+    "/teaching/",
+    "/news/"
+  ]
+}
